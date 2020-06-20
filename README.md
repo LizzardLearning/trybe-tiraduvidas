@@ -27,9 +27,13 @@ Como pre-condição para participar do presente repositório, tenha certeza de t
     * Você deve criar uma branch no seguinte formato: `nome-de-usuario-tiraduvidas`
     * Exemplo: `git checkout -b john-doe-zoo-tiraduvidas`
 
-3. Crie seu arquivo e adicione nele os exercícios, conteúdos e diversos elementos que gostaria de trazer para resolução ou aprendizagem conjunta.
-* Sugestão de nome para o arquivo: `conteudoexplicito-outroconteudoexplicito`
-    * Exemplo: `CSSflexbox-JsHOFs`
+3. Crie sua pasta e, dentro dela, seus arquivos contendo os exercícios, conteúdos e diversos elementos que gostaria de trazer para resolução ou aprendizagem conjunta.
+
+* Sugestão de nome para a pasta: `conteudoexplicito-outroconteudoexplicito-data`
+    * Exemplo: `CSSflexbox-JShofs-20.06.2020`
+ * Sugestão de nome para cada arquivo: `conteudoexplicito`
+    * Exemplos: `cssflexbox.style`,`hofs.js`, `exemplo.html`  
+    
 
 4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
   * Verifique que as mudanças ainda não estão no _stage_
