@@ -55,6 +55,11 @@ Como pre-condição para participar do presente repositório, tenha certeza de t
   * **Não se preocupe em preencher mais nada por enquanto!**
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/LizzardLearning/trybe-tiraduvidas/pulls) e confira que o seu _Pull Request_ está criado.
 
+### Links Úteis
+
+ * Referências JS - https://www.w3schools.com/jsref/default.asp
+ * Como aprender a programar - https://www.youtube.com/watch?v=ZtMzB5CoekE
+
 ### Tirar dúvidas juntos
 
 Agora é só esperar o momento marcado de tirarmos dúvidas e aprender juntos! Entre na sala Zoom no horário combinado. VQV!
