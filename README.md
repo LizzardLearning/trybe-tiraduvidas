@@ -32,7 +32,7 @@ Como pre-condição para participar do presente repositório, tenha certeza de t
 * Sugestão de nome para a pasta: `conteudoexplicito-outroconteudoexplicito-data`
     * Exemplo: `CSSflexbox-JShofs-20.06.2020`
  * Sugestão de nome para cada arquivo: `conteudoexplicito`
-    * Exemplos: `cssflexbox.style`,`hofs.js`, `exemplo.html`  
+    * Exemplos: `flexbox.css`,`hofs.js`, `exemplo.html`  
     
 
 4. Adicione as mudanças ao _stage_ do Git e faça um `commit`
