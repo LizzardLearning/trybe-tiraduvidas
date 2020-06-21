@@ -1,4 +1,4 @@
-Imagine que você vai construir uma máquina de venda automática (como essas que vendem refrigerante). A máquina aceita moedas e calcula a diferença do valor total que deve ser pago e o valor recebido da pessoa que compra. Essa máquina possui um conjunto de moedas. Você deve implementar a seguinte lógica: dado o valor do troco, a máquina retorna uma lista com as moedas que ela devolverá para a pessoa.
+/*Imagine que você vai construir uma máquina de venda automática (como essas que vendem refrigerante). A máquina aceita moedas e calcula a diferença do valor total que deve ser pago e o valor recebido da pessoa que compra. Essa máquina possui um conjunto de moedas. Você deve implementar a seguinte lógica: dado o valor do troco, a máquina retorna uma lista com as moedas que ela devolverá para a pessoa.
 
 Requisitos
 Como uma pessoa que compra em máquinas automáticas, eu gostaria de selecionar um item, depositar o pagamento e receber o item e o troco.
@@ -28,7 +28,7 @@ Implementação
 Finalize a implementação da função getChange(payable, paid).
 
 payable é o valor a ser pago, ou o valor total
-paid é o valor que a pessoa pagou
+paid é o valor que a pessoa pagou*/
 
 
 
@@ -45,11 +45,9 @@ function getChange(payable, paid) {
 }
 
 
-
-Testes unitários
+/*Testes unitários
 Como dito anteriormente, os testes unitários já estão prontos, e sua implementação deve passar por todos eles.
-
-
+*/
 
 const assert = require('assert');
 
@@ -69,4 +67,4 @@ result = getChange(12, 400); // expect an array containing [200, 100, 50, 20, 10
 expected = [200, 100, 50, 20, 10, 5, 2, 1];
 assert.deepEqual(result, expected);
 
-assert.throws(() => { getChange(100, 10); }, /^Error: paid value is not enough$/);
+assert.throws(() => { getChange(100, 10); }, /Error: paid value is not enough$/);
