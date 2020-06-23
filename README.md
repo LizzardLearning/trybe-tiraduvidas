@@ -58,6 +58,23 @@ Como pre-condição para participar do presente repositório, tenha certeza de t
   * Adicione uma descrição para o _Pull Request_ e clique no botão verde _"Create pull request"_
   * **Não se preocupe em preencher mais nada por enquanto!**
   * Volte até a [página de _Pull Requests_ do repositório](https://github.com/LizzardLearning/trybe-tiraduvidas/pulls) e confira que o seu _Pull Request_ está criado.
+  
+  
+### CUIDADOS NECESSÁRIOS PARA EVITARMOS CONFLITOS:
+
+Aqui, preste bastante atenção porque já que todas as branch vão receber Merge pelos admin do repositório, temos que evitar conflitos.
+É apenas observar bem as seguintes recomendações:
+
+#### 1. Sempre atualize sua branch
+Depois de cada push e na hora de participar de novo no repositório, sempre faça um `git pull` para atualizar a sua branch. 
+
+#### 2. Organize suas contribuições por pastas diferentes
+Na hora de participar de novo no repositório, é melhor que não modifique as pastas que vc já submeteu para outras sessões anteriores de tiraduvidas, pois a gente jà terá dado Merge nelas.
+Apenas adicione desde sua branch uma nova pasta com novo nome, novos conteúdos e novos arquivos do seu interesse e va até o push!
+  
+  
+  
+  
 
 ### Links Úteis
 
