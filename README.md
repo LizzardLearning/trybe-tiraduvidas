@@ -69,8 +69,10 @@ Aqui, preste bastante atenção porque já que todas as branch vão receber Merg
 Depois de cada push e na hora de participar de novo no repositório, sempre faça um `git pull` para atualizar a sua branch. 
 
 #### 2. Organize suas contribuições por pastas diferentes
-Na hora de participar de novo no repositório, é melhor que não modifique as pastas que vc já submeteu para outras sessões anteriores de tiraduvidas, pois a gente jà terá dado Merge nelas.
-Apenas adicione desde sua branch uma nova pasta com novo nome, novos conteúdos e novos arquivos do seu interesse e va até o push!
+Na hora de participar de novo no repositório, apenas `adicione desde sua branch uma nova pasta com novo nome, novos conteúdos e novos arquivos do seu interesse` e va até o `push`!
+
+Também é melhor que não modifique as pastas que vc já submeteu quando já foram usadas durante sessões anteriores de tiraduvidas, pois a gente jà terá dado Merge nelas e achamos relevante `conservar algum histórico das dúvidas que já foram estudadas em conjunto`. 
+
   
   
   
