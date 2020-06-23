@@ -11,7 +11,7 @@ Aqui você vai encontrar os detalhes de como estruturar nossa colaboração usan
 ### ANTES DE COMEÇAR:
 
 
-Como pre-condição para participar do presente repositório, tenha certeza de ter sido colocado ou convidado como colaborador do repositório, falando com o seu admin [Lizzard](https://github.com/LizzardMedeiros) ou [Juliette](https://github.com/juliettebeaudet), assim como ter efetivamente aceito o convite recebido por email.
+Como pre-condição para participar do presente repositório, tenha certeza de ter sido colocado ou convidado como colaborador do repositório, falando com os seus admin [Lizzard](https://github.com/LizzardMedeiros) ou [Juliette](https://github.com/juliettebeaudet), assim como ter efetivamente aceito o convite recebido por email.
 
 1. Clone o repositório
   * `git clone https://github.com/LizzardLearning/trybe-tiraduvidas.git`.
