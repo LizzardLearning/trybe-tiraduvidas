@@ -66,7 +66,7 @@ Aqui, preste bastante atenção porque já que todas as branch vão receber Merg
 É apenas observar bem as seguintes recomendações:
 
 #### 1. Sempre atualize sua branch
-Depois de cada push e na hora de participar de novo no repositório, sempre faça um `git pull` para atualizar a sua branch. 
+Depois de cada push e na hora de participar de novo no repositório, sempre faça um `git pull` primeiro para atualizar a sua branch. 
 
 #### 2. Organize suas contribuições por pastas diferentes
 Na hora de participar de novo no repositório, apenas `adicione desde sua branch uma nova pasta com novo nome, novos conteúdos e novos arquivos do seu interesse` e va até o `push`!
