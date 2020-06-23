@@ -85,4 +85,4 @@ Também é melhor que não modifique as pastas que vc já submeteu quando já fo
 
 ### Tirar dúvidas juntos
 
-Agora é só esperar o momento marcado de tirarmos dúvidas e aprender juntos! Entre na sala Zoom no horário combinado. VQV!
+Agora é só esperar o momento marcado de tirarmos dúvidas e aprender juntos! Entre na sala Zoom no horário combinado. VQV! 🚀 🚀 🚀 
